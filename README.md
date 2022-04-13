@@ -1,4 +1,4 @@
-## Ejercicio - Conviertiendo un entero a una hora determinada
+## Ejercicio - Convirtiendo un entero a una hora determinada
 
 
 Define el método `conversion_of_time` que recibe valores enteros como argumento y los convierte en una hora de tiempo determinada con su formato correspondiente. Todas los resultados de las comparaciones en el `driver code` deben ser `true`.
